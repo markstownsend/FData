@@ -1,0 +1,12 @@
+source https://nuget.org/api/v2
+
+nuget DocumentFormat.OpenXml
+nuget FSharp.Formatting
+nuget FAKE
+nuget SourceLink.Fake
+nuget FsLab
+nuget Xunit
+nuget FSharp.Collections.ParallelSeq
+nuget FSharp.Control.AsyncSeq
+
+github fsharp/FAKE modules/Octokit/Octokit.fsx

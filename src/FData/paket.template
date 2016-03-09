@@ -1,0 +1,23 @@
+type project
+owners
+    Mark Townsend
+authors 
+    Mark Townsend
+projectUrl
+    http://github.com/markstownsend/FData
+iconUrl
+    https://raw.githubusercontent.com/markstownsend/FData/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/markstownsend/FData/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    F# Deedle
+summary
+    Mucking around with FSLab
+description
+    Mucking around with FSLab
+
+
